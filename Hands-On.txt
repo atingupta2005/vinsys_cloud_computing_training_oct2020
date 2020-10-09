@@ -1,0 +1,21 @@
+1. Create VM
+https://gitmind.com/app/doc/d2c924963
+
+2. Create a Virtual Network
+https://gitmind.com/app/doc/9a8924996
+
+3. Connect 2 Networks together
+https://gitmind.com/app/doc/c63925023
+
+4. Enable ICMP Protocol
+https://gitmind.com/app/doc/3b6925067
+
+5. Create a Blob - File Share
+https://gitmind.com/app/doc/0dd925115
+
+6- Create SQL Database
+https://gitmind.com/app/doc/eba925161
+
+7. Connect to Azure SQL Database
+https://gitmind.com/app/doc/fb4925184
+
